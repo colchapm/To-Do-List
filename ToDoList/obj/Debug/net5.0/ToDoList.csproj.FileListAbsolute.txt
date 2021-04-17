@@ -1,0 +1,12 @@
+/Users/cchap14/Desktop/epicodus-jan/c#/ToDoList.Solution/ToDoList/bin/Debug/net5.0/ToDoList.deps.json
+/Users/cchap14/Desktop/epicodus-jan/c#/ToDoList.Solution/ToDoList/bin/Debug/net5.0/ToDoList.dll
+/Users/cchap14/Desktop/epicodus-jan/c#/ToDoList.Solution/ToDoList/bin/Debug/net5.0/ref/ToDoList.dll
+/Users/cchap14/Desktop/epicodus-jan/c#/ToDoList.Solution/ToDoList/bin/Debug/net5.0/ToDoList.pdb
+/Users/cchap14/Desktop/epicodus-jan/c#/ToDoList.Solution/ToDoList/obj/Debug/net5.0/ToDoList.csprojAssemblyReference.cache
+/Users/cchap14/Desktop/epicodus-jan/c#/ToDoList.Solution/ToDoList/obj/Debug/net5.0/ToDoList.GeneratedMSBuildEditorConfig.editorconfig
+/Users/cchap14/Desktop/epicodus-jan/c#/ToDoList.Solution/ToDoList/obj/Debug/net5.0/ToDoList.AssemblyInfoInputs.cache
+/Users/cchap14/Desktop/epicodus-jan/c#/ToDoList.Solution/ToDoList/obj/Debug/net5.0/ToDoList.AssemblyInfo.cs
+/Users/cchap14/Desktop/epicodus-jan/c#/ToDoList.Solution/ToDoList/obj/Debug/net5.0/ToDoList.csproj.CoreCompileInputs.cache
+/Users/cchap14/Desktop/epicodus-jan/c#/ToDoList.Solution/ToDoList/obj/Debug/net5.0/ToDoList.dll
+/Users/cchap14/Desktop/epicodus-jan/c#/ToDoList.Solution/ToDoList/obj/Debug/net5.0/ref/ToDoList.dll
+/Users/cchap14/Desktop/epicodus-jan/c#/ToDoList.Solution/ToDoList/obj/Debug/net5.0/ToDoList.pdb
