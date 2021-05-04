@@ -29,4 +29,7 @@
 /Users/cchap14/Desktop/epicodus-jan/c#/ToDoList.Solution/ToDoList/obj/Debug/net5.0/ToDoList.RazorTargetAssemblyInfo.cs
 /Users/cchap14/Desktop/epicodus-jan/c#/ToDoList.Solution/ToDoList/obj/Debug/net5.0/ToDoList.Views.pdb
 /Users/cchap14/Desktop/epicodus-jan/c#/ToDoList.Solution/ToDoList/obj/Debug/net5.0/ToDoList.csproj.CopyComplete
-/Users/cchap14/Desktop/epicodus-jan/c#/ToDoList.Solution/ToDoList/obj/Debug/net5.0/Razor/Views/Home/CreateForm.cshtml.g.cs
+/Users/cchap14/Desktop/epicodus-jan/c#/ToDoList.Solution/ToDoList/obj/Debug/net5.0/Razor/Views/Items/DeleteAll.cshtml.g.cs
+/Users/cchap14/Desktop/epicodus-jan/c#/ToDoList.Solution/ToDoList/obj/Debug/net5.0/Razor/Views/Items/Index.cshtml.g.cs
+/Users/cchap14/Desktop/epicodus-jan/c#/ToDoList.Solution/ToDoList/obj/Debug/net5.0/Razor/Views/Items/New.cshtml.g.cs
+/Users/cchap14/Desktop/epicodus-jan/c#/ToDoList.Solution/ToDoList/obj/Debug/net5.0/Razor/Views/Items/Show.cshtml.g.cs

@@ -94,3 +94,5 @@
 /Users/cchap14/Desktop/epicodus-jan/c#/ToDoList.Solution/ToDoList.Tests/obj/Debug/net5.0/ref/ToDoList.Tests.dll
 /Users/cchap14/Desktop/epicodus-jan/c#/ToDoList.Solution/ToDoList.Tests/obj/Debug/net5.0/ToDoList.Tests.pdb
 /Users/cchap14/Desktop/epicodus-jan/c#/ToDoList.Solution/ToDoList.Tests/obj/Debug/net5.0/ToDoList.Tests.genruntimeconfig.cache
+/Users/cchap14/Desktop/epicodus-jan/c#/ToDoList.Solution/ToDoList.Tests/bin/Debug/net5.0/ToDoList.Views.dll
+/Users/cchap14/Desktop/epicodus-jan/c#/ToDoList.Solution/ToDoList.Tests/bin/Debug/net5.0/ToDoList.Views.pdb
