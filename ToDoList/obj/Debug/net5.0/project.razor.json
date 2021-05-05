@@ -15619,13 +15619,23 @@
   "RootNamespace": "ToDoList",
   "Documents": [
     {
-      "FilePath": "/Users/cchap14/Desktop/epicodus-jan/c#/ToDoList.Solution/ToDoList/Views/Items/CreateForm.cshtml",
-      "TargetPath": "Views\\Items\\CreateForm.cshtml",
+      "FilePath": "/Users/cchap14/Desktop/epicodus-jan/c#/ToDoList.Solution/ToDoList/Views/Items/DeleteAll.cshtml",
+      "TargetPath": "Views\\Items\\DeleteAll.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/Users/cchap14/Desktop/epicodus-jan/c#/ToDoList.Solution/ToDoList/Views/Items/Show.cshtml",
+      "TargetPath": "Views\\Items\\Show.cshtml",
       "FileKind": "mvc"
     },
     {
       "FilePath": "/Users/cchap14/Desktop/epicodus-jan/c#/ToDoList.Solution/ToDoList/Views/Items/Index.cshtml",
       "TargetPath": "Views\\Items\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/Users/cchap14/Desktop/epicodus-jan/c#/ToDoList.Solution/ToDoList/Views/Items/New.cshtml",
+      "TargetPath": "Views\\Items\\New.cshtml",
       "FileKind": "mvc"
     },
     {
