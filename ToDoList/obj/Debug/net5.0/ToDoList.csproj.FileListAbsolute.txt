@@ -33,3 +33,7 @@
 /Users/cchap14/Desktop/epicodus-jan/c#/ToDoList.Solution/ToDoList/obj/Debug/net5.0/Razor/Views/Items/Index.cshtml.g.cs
 /Users/cchap14/Desktop/epicodus-jan/c#/ToDoList.Solution/ToDoList/obj/Debug/net5.0/Razor/Views/Items/New.cshtml.g.cs
 /Users/cchap14/Desktop/epicodus-jan/c#/ToDoList.Solution/ToDoList/obj/Debug/net5.0/Razor/Views/Items/Show.cshtml.g.cs
+/Users/cchap14/Desktop/epicodus-jan/c#/ToDoList.Solution/ToDoList/obj/Debug/net5.0/Razor/Views/Categories/Index.cshtml.g.cs
+/Users/cchap14/Desktop/epicodus-jan/c#/ToDoList.Solution/ToDoList/obj/Debug/net5.0/Razor/Views/Categories/New.cshtml.g.cs
+/Users/cchap14/Desktop/epicodus-jan/c#/ToDoList.Solution/ToDoList/obj/Debug/net5.0/Razor/Views/Categories/Show.cshtml.g.cs
+/Users/cchap14/Desktop/epicodus-jan/c#/ToDoList.Solution/ToDoList/obj/Debug/net5.0/Razor/Views/Home/FavoritePhotos.cshtml.g.cs

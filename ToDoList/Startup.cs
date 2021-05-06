@@ -26,6 +26,8 @@ namespace ToDoList
       
       app.UseRouting();
 
+      app.UseStaticFiles();
+
       app.UseEndpoints(routes =>
       {
         routes.MapControllerRoute("default", "{controller=Home}/{action=Index}/{id?}");
@@ -35,6 +37,7 @@ namespace ToDoList
       {
         await context.Response.WriteAsync("Hello World!");
       });
+      
     }
   }
 }
